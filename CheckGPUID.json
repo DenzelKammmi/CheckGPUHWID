@@ -1,7 +1,7 @@
 {
   "1": {
     "password": "123",
-    "gpuHwid": "PCI\VEN_10DE&DEV_2504&SUBSYS_153610DE&REV_A1\4&18E11893&0&0008"
+    "gpuHwid": "PCI\\VEN_10DE&DEV_2504&SUBSYS_153610DE&REV_A1\\4&18E11893&0&0008"
   },
   "2": {
     "password": "password456",
