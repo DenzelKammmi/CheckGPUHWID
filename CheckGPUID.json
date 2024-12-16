@@ -1,4 +1,10 @@
 {
-  "admin": "password123",
-  "admin1": "password456"
+  "1": {
+    "password": "123",
+    "gpuHwid": "PCI\VEN_10DE&DEV_2504&SUBSYS_153610DE&REV_A1\4&18E11893&0&0008"
+  },
+  "2": {
+    "password": "password456",
+    "gpuHwid": "PCI\\VEN_1002&DEV_67DF&SUBSYS_01A41028&REV_C7"
+  }
 }
