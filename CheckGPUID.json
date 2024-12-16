@@ -6,5 +6,5 @@
 },
   "vomit": {
     "password": "123",
-    "gpuHwid": "PCI\VEN_1002&DEV_67DF&SUBSYS_01A41028&REV_C7"
+    "gpuHwid": "PCI\\VEN_1002&DEV_67DF&SUBSYS_01A41028&REV_C7"
   }
