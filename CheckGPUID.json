@@ -1,7 +1,5 @@
 {
   "valid_hwids": [
-    "PCI\\VEN_1002&DEV_67DF",
-    "PCI\\VEN_8086&DEV_3E9B",
-    "PCI\\VEN_10DE&DEV_1C82"
+    "PCI\\VEN_10DE&DEV_2504&SUBSYS_153610DE&REV_A1\\4&18E11893&0&0007"
   ]
 }
